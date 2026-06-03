@@ -1,0 +1,20 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.inlineSuggest.enabled": false,
+    "editor.snippetSuggestions": "none",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off",
+    "editor.hover.enabled": "off",
+    "editor.lightbulb.enabled": "off",
+    "java.completion.enabled": false,
+    "files.exclude": {
+        "**/*.class": true
+    }
+}
