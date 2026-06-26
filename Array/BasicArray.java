@@ -10,7 +10,7 @@ class BasicArray{
         int[] arr4 = {10,20};
 
         System.out.println(arr3[0]);
-        System.out.println("Length: "+ arr3.length);
+        System.out.println("Length: "+ arr3.th);
 
     } 
 }
