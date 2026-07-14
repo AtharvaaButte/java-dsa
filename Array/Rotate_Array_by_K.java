@@ -37,7 +37,7 @@ class Rotate_Array_by_K
         System.out.println("Enter K: ");
         int k = sc.nextInt();
         rotateArrayByK(arr,k);
-        System.out.println("Reversed Array: "+Arrays.toString(arr));
+        System.out.println("Rotated Array: "+Arrays.toString(arr));
 
         
   }
